@@ -16,4 +16,4 @@ Sistema web de una tienda de libros hecha con PHP 8, MySQL, Bootstrap, JQuery y 
 # Instalación
 1. Crear la base de datos (`sql/database.sql`)
 2. Crear la tabla (`sql/tables.sql`)
-3. Poblar la tabla (`sql/initial-data`)
+3. Poblar la tabla (`sql/initial-data.sql`)
