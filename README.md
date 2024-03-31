@@ -17,3 +17,6 @@ Sistema web de una tienda de libros hecha con PHP 8, MySQL, Bootstrap, JQuery y 
 1. Crear la base de datos (`sql/database.sql`)
 2. Crear la tabla (`sql/tables.sql`)
 3. Poblar la tabla (`sql/initial-data.sql`)
+
+# Referencias
+[Guía de aprendizaje](https://mcazorla.gitbooks.io/programacion-en-el-servidor/content/patrones_de_diseno_en_php_ii__patron_mvc/) del cual tome la estructura base para un mini-framework MVC.
